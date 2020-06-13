@@ -1,6 +1,14 @@
-# gifsearchflutter
+# Gif_Search_Flutter
 
-A new Flutter application.
+GIF search application using GHIPY API. This Plicative shows in your home the 20 most used GIFs at the moment and also has the option to find desired GIFs with the search. Also the possibility of sharing.
+
+API:https://developers.giphy.com/
+
+# Screen Shootings
+<img src="https://uploaddeimagens.com.br/images/002/705/102/full/1.jpg">
+<img src="https://uploaddeimagens.com.br/images/002/705/104/full/2.jpg">
+<img src="https://uploaddeimagens.com.br/images/002/705/105/full/3.jpg">
+
 
 ## Getting Started
 
